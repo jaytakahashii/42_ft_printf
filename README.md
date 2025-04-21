@@ -16,6 +16,18 @@
 
 Printing formatted output is a common necessity in C programming, and the `ft_printf` project at 42tokyo provides an opportunity to craft your own version of the `printf` function. This project challenges you to understand the intricacies of formatting while enhancing your skills in C programming.
 
+## ✅ Supported Format Specifiers
+
+The following conversion specifiers are supported:
+
+- `%c` : Character
+- `%s` : String
+- `%p` : Pointer address
+- `%d` / `%i` : Signed decimal integer
+- `%u` : Unsigned decimal integer
+- `%x` / `%X` : Unsigned hexadecimal integer
+- `%%` : A literal percent sign
+
 ## 📚 Usage
 
 ### Requirements
