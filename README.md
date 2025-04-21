@@ -1,6 +1,10 @@
 <h1 align="center">
-    ft_printf (42tokyo Project)
+    ft_printf (Projects at 42tokyo)
 </h1>
+
+<p align="center">
+	<b><i>Final Score 100/100</i></b><br>
+</p>
 
 <p align="center">
     <b><i>A CUSTOM PRINTF FUNCTION IMPLEMENTATION</i></b><br>
@@ -11,6 +15,18 @@
 > _The objective of this project is to create a custom implementation of the `printf` function in C._
 
 Printing formatted output is a common necessity in C programming, and the `ft_printf` project at 42tokyo provides an opportunity to craft your own version of the `printf` function. This project challenges you to understand the intricacies of formatting while enhancing your skills in C programming.
+
+## ✅ Supported Format Specifiers
+
+The following conversion specifiers are supported:
+
+- `%c` : Character
+- `%s` : String
+- `%p` : Pointer address
+- `%d` / `%i` : Signed decimal integer
+- `%u` : Unsigned decimal integer
+- `%x` / `%X` : Unsigned hexadecimal integer
+- `%%` : A literal percent sign
 
 ## 📚 Usage
 
