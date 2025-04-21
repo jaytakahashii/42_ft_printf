@@ -1,6 +1,10 @@
 <h1 align="center">
-    ft_printf (42tokyo Project)
+    ft_printf (Projects at 42tokyo)
 </h1>
+
+<p align="center">
+	<b><i>Final Score 100/100</i></b><br>
+</p>
 
 <p align="center">
     <b><i>A CUSTOM PRINTF FUNCTION IMPLEMENTATION</i></b><br>
